@@ -28,7 +28,7 @@
 | # | Module | Techniques | Status |
 |---|--------|------------|--------|
 | 1 | Destination Recommendation | TF-IDF, Cosine Similarity | 🔜 Planned |
-| 2 | **Tourist Sentiment Analysis** | TF-IDF, Linear SVM | ✅ **Completed** |
+| 2 | **Tourist Sentiment Analysis** | TF-IDF, Logistic Regression| ✅ **Completed** |
 | 3 | Tourist Crowd Prediction | Random Forest, XGBoost | 🔜 Planned |
 | 4 | Hotel Price Estimation | Regression, XGBoost | 🔜 Planned |
 | 5 | Travel Budget Estimation | Rule-based + ML | 🔜 Planned |
