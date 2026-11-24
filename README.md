@@ -10,9 +10,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Planned-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/static/v1?label=FastAPI&message=Planned&color=009688&style=for-the-badge&logo=fastapi&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Development-ff9e5e?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Modules-4%20of%206%20done-4c9a6a?style=for-the-badge)
+![Progress](https://img.shields.io/static/v1?label=Modules&message=4%20of%206%20done&color=4c9a6a&style=for-the-badge)
 
 </div>
 
